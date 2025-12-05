@@ -66,4 +66,6 @@ Se Puede consultar el código del proyecto en el siguiente enlace:
 
 🔗 [Repositorio del proyecto en GitHub](https://github.com/marozta/Data-Science-Challenge1-Alura-ONE-G9.git)
 
+  Una vez dentro, debe abrirse el archivo: [AluraStoreLatamAnalisis.ipynb](AluraStoreLatamAnalisis.ipynb)
+
 ---

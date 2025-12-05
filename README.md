@@ -47,7 +47,16 @@ El análisis se basó en el procesamiento de datos reales proporcionados por cli
   ---
 
 ## 📈 Imágenes del proyecto
-![alt text](./Imagenes/VentasTotalesPorTienda.png)
+![gráfico de barras de ingreso total por tienda](./Imagenes/VentasTotalesPorTienda.png)
+
+![gráfico de torta sobre ventas por categorias por tienda](./Imagenes/VentasPorCategoria.png)
+
+![gráfico de barras horizontales de productos menos vendidos por tienda](./Imagenes/ProductosMasVendidosPorTienda.png)
+
+![gráfico de barras horizontales de productos mas vendidos por tienda](./Imagenes/ProductosMenosVendidosPorTienda.png)
+
+![gráfico mapa mostrando las zonas geográficas de las ventas](./Imagenes/MapaDeCalorVentas.png)
+
 
   ---
 
